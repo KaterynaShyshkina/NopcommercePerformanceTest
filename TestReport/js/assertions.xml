@@ -1,0 +1,8 @@
+<testsuite name="myHomeTest.RecordedSimulation" tests="2" errors="0" failures="1" time="0">
+<testcase name="Global: max of response time is less than 1200.0" status="false" time="0">
+  <failure type="Global">Actual value: 1377.0</failure>
+</testcase>
+<testcase name="Global: percentage of successful events is greater than 95.0" status="true" time="0">
+  <system-out>Global: percentage of successful events is greater than 95.0</system-out>
+</testcase>
+</testsuite>
