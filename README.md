@@ -1,6 +1,6 @@
 Gatling. Home task
 
-Full test report is placed in TestReport directory (index.html).
+Test result report is placed in TestReport directory (index.html).
 
 Conditions:
 Using Gatling tool script the next flow of following site:
